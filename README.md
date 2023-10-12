@@ -43,8 +43,12 @@ Ticapsoriginal make text file with all text content of large website from large 
 
 * Change the largesitetextextract.py file with your sitemap url 
 
-## Start scanning and calculating:
+## Start scanning:
 <pre><code>python largesitetextextract.py
+</code></pre>
+
+## Open txt data file:
+<pre><code>python textdata.txt
 </code></pre>
 
 ## quality:
