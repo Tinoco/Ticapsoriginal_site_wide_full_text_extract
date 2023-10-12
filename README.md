@@ -1,4 +1,4 @@
-# -Ticapsoriginal site wide full text extract
+# Ticapsoriginal site wide full text extract
 Ticapsoriginal make text file with all text content of large website from large sitemap ( preparing data for nltk analysis ) 
 
 * large sitemaps available
